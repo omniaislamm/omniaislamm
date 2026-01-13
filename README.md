@@ -64,4 +64,41 @@ class AboutMe {
       'Teaching & Mentoring'
     ]
   };
-}
+```
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;
+  I’m currently building & improving <strong>React portfolio projects</strong> — clean, responsive UIs with modern best practices ✨<br>
+
+- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;
+  I enjoy learning <strong>Advanced React (Hooks • Context • Performance), TypeScript, and Next.js basics</strong> — turning ideas into smooth web experiences<br>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;
+  Ask me about <strong>Front-End Development, React tips, ICPC organizing, teaching coding to beginners, university life in Egypt, or AI productivity tools</strong> 💬<br>
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;
+  Connect with me on LinkedIn: 
+  <strong><a href="https://www.linkedin.com/in/omnia-islam-0686b0306">Omnia Eslam</a></strong><br>
+
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;
+  Fun fact: I love turning complex problems into clean, simple, and beautiful UIs ✨
+
+<div align="center">
+  <strong>Code Cycle</strong><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging..." title="Why isn't this working?!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It works!" title="Finally..."/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Wait, why does it work now?!" title="Magic?!"/>
+</div>
+<details>
+
+<hr>
+
+<strong>Code Cycle</strong><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging..."/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It works!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Why does it work?"/><br>
+</div>
