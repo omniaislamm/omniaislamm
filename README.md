@@ -2,7 +2,7 @@
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="45%"/><br>
 
-  <h2>Hi there! 👋 I'm Omnia Eslam</h2>
+  <h2>Hi there! 👋 I'm Omnia Islam</h2>
   <p>
     <strong>Front-End Developer (React) • Coding Instructor • ICPC OC Member</strong><br>
     Information Technology student @ Delta Technological University (DTU)<br>
