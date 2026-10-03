@@ -73,7 +73,7 @@ class AboutMe {
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;
   Connect with me on LinkedIn: 
-  <strong><a href="https://www.linkedin.com/in/omnia-islam-0686b0306">Omnia Eslam</a></strong><br>
+  <strong><a href="https://www.linkedin.com/in/omnia-islam-0686b0306">Omnia Islam</a></strong><br>
 
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;
   Fun fact: I love turning complex problems into clean, simple, and beautiful UIs ✨
